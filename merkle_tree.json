@@ -1,0 +1,53 @@
+{
+  "format": "standard-v2",
+  "tree": [
+    "0x2cea8b00dcab183f860fec2cecdf9a43f3f180f246d1e4bba50f36d6d9b21a",
+    "0x7b5a37e91d9b4e6018a082766327d7fab0c554a08577236690f9c2cf047b46b",
+    "0x5af95cf84c21709aad60565c851dbb5a55e2da255dc751b68459bd2f05dd06a",
+    "0x60996ae3c8594e4ec161af2ce841d9473541ec4f5d3d7a444bfe6b70473b18f",
+    "0x493f18be0ed7689a161d50d1686b98e736de558f26615d620f1a451cbbf12e0",
+    "0x127707656fd1eec4345040a4724c55be11202013f49091f91005e8955ae76e5",
+    "0xa466439c5c39ef5fd2eac485a194d78f645e8a173d37139e094745a43a4edb"
+  ],
+  "values": [
+    {
+      "value": [
+        "0x7e00d496e324876bbc8531f2d9a82bf154d1a04a50218ee74cdd372f75a551a",
+        "0xde0b6b3a7640000",
+        "0x0"
+      ],
+      "treeIndex": 3
+    },
+    {
+      "value": [
+        "0x53c615080d35defd55569488bc48c1a91d82f2d2ce6199463e095b4a4ead551",
+        "0x1bc16d674ec80000",
+        "0x0"
+      ],
+      "treeIndex": 5
+    },
+    {
+      "value": [
+        "0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef",
+        "0x6f05b59d3b20000",
+        "0x1"
+      ],
+      "treeIndex": 6
+    },
+    {
+      "value": [
+        "0x5678901234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+        "0xa688906bd8b0000",
+        "0x0"
+      ],
+      "treeIndex": 4
+    }
+  ],
+  "hashLookup": {
+    "0x60996ae3c8594e4ec161af2ce841d9473541ec4f5d3d7a444bfe6b70473b18f": 0,
+    "0x127707656fd1eec4345040a4724c55be11202013f49091f91005e8955ae76e5": 1,
+    "0xa466439c5c39ef5fd2eac485a194d78f645e8a173d37139e094745a43a4edb": 2,
+    "0x493f18be0ed7689a161d50d1686b98e736de558f26615d620f1a451cbbf12e0": 3
+  },
+  "hashType": "Poseidon"
+}
