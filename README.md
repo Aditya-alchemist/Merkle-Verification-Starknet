@@ -27,6 +27,25 @@ It is ideal for StarkNet where proofs and performance matter.
 
 ---
 
+## Output
+
+![image](https://github.com/user-attachments/assets/504502c4-8a2a-41ee-930a-6f065ced27e8)
+
+---
+
+![image](https://github.com/user-attachments/assets/c027d350-ebd3-4b45-ae35-2d14489d02b4)
+
+---
+
+![image](https://github.com/user-attachments/assets/af761146-a3ff-4bd9-b18c-00cf5b7462c0)
+
+---
+
+
+
+---
+
+
 ## 🧠 How Merkle Proofs Work
 
 To prove a value exists in a Merkle Tree:
