@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/85e54cd6-d2a9-47b4-8cfc-df0bb146b68b)
+
+
 # Deep Dive into Merkle Trees with Poseidon Hashing on StarkNet
 
 This documentation explores the construction and verification of Merkle Trees using the Poseidon hash function within the context of the StarkNet ecosystem. This guide extends beyond airdrops to include broader applications and a detailed explanation of the underlying mechanisms.
